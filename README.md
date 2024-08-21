@@ -1,35 +1,26 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+# Nahuel Lautaro Jimenez 
+## Un poco sobre mi :file_folder:
+Hola mi nombre es **Nahuel Lautaro Jimenez**, tengo **20** años. Soy estudiante de la Tec.Univ. en Programacion de Videojuegos y este es mi 4to cuatrimestre en la UNAHUR.
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Fui a una escuela técnica con orientación en **Electromecánica** de la cual me recibi en 2022 :star2: :star2: :star2:. Decidí ir a una escuela técnica ya que me otorgaría un título mejor que el de una escuela secundaria media, y además obtendría conocimientos útiles para la vida cotidiana. Sin embargo, con el paso de los años, perdí interés. 
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Cuando llegué a 7mo año y realicé la pasantía durante aproximadamente 4 meses, al finalizarla me di cuenta de que esto no era algo que me apasionaba. Se me hizo algo muy repetitivo y tedioso. Si bien adquirí muchas habilidades útiles, llegué a la conclusión de que no quería dedicarme el resto de mi vida a este rubro.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+A unas semanas de recibirme, comencé la búsqueda de la carrera universitaria en la que me incursionaría. Al comenzar esta búsqueda, no sabía qué iba a estudiar, ya que no encontraba nada que me llamara la atención. La mayoría de mis profesores de 7mo año eran ingenieros (mecánicos, electromecánicos, electrónicos, entre otros), y me decían que debía seguir una ingeniería, ya que veían mucho potencial en mí, debido a mi desempeño como alumno. 
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+En un comienzo, me fijé en las ingenierías, pero no me llamaron la atención las materias, por lo que empecé a explorar otras áreas y me topé con la informática, que hasta ese entonces era algo totalmente diferente al entorno en el cual me encontraba. Comencé a interiorizarme y me di cuenta que me interesaban mucho las materias, asi que comence a buscar si existia alguna universidad publica que tuviera una carrera en programacion de videojuegos, al principio no encontraba o eran privadas, hasta que me tope con la UNAHUR, y sin pensarlo me inscribi para comenzar mi trayectoria universitaria a comienzos de 2023. 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+Hasta el dia de hoy no me arrepiento para nada de empezar en el mundo de la programacion, ya que descubri que es algo que me apasiona y de lo cual quiero vivir en un futuro.
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+## Gustos && Hobbies :exploding_head:
+- :video_game: Videojuegos.
+- :movie_camera: Series y Peliculas.
+- :musical_note: Escuchar musica.
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+
+
+
+
+
