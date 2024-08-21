@@ -17,7 +17,17 @@ Hasta el dia de hoy no me arrepiento para nada de empezar en el mundo de la prog
 ## Gustos && Hobbies :exploding_head:
 - :video_game: Videojuegos.
 - :movie_camera: Series y Peliculas.
+- :desktop_computer: Programacion. 
 - :musical_note: Escuchar musica.
+
+## Expectativas de la Materia :books:
+Esta materia me llamo la atencion desde el dia 1 en el cual me inscribi en la carrera, ya que es lo principalmente utilizado al momento de desarrollar videojuegos, algo que siempre me pregunte como es su funcionamiento. Por lo cual tengo una muy buena expectativa de la materia, y estoy con ganas de que empecemos.
+
+## Planes a Futuro :space_invader:
+1. Recibirme de Tec. Univ. en Programacion de Videojuegos.
+2. Estudiar tambien la Tec. Univ. en Programacion, ya que me llaman mucho la atencion las materias.
+3. Comenzar a vivir de lo que me gusta.
+4. Irme a vivir a Estados Unidos.
 
 
 
